@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://masahiko-amano.art/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://masahiko-amano.art/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://masahiko-amano.art/jp/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://masahiko-amano.art/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://masahiko-amano.art/"/>
+  </url>
+  <url>
+    <loc>https://masahiko-amano.art/jp/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://masahiko-amano.art/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://masahiko-amano.art/jp/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://masahiko-amano.art/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://masahiko-amano.art/"/>
+  </url>
+  <url>
+    <loc>https://masahiko-amano.art/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://masahiko-amano.art/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://masahiko-amano.art/jp/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://masahiko-amano.art/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://masahiko-amano.art/"/>
+  </url>
+</urlset>
